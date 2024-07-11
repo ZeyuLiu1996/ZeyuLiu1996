@@ -22,7 +22,7 @@
 <hr>
 <br/>
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,py,sqlserver,pandas,sklearn,pytorch,matplotlib,seaborn,tableau,r" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,py,mysql,pandas,seaborn,tableau,matplotlib,sklearn,pytorch,r" />
 </div>
 
 <br/>
